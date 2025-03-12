@@ -21,3 +21,5 @@ Top-P	Dynamically limits choices	Lower = strict, Higher = freeform
 
 Beam Search: Instead of selecting the highest-probability token at each step, beam search explores multiple possible sequences before selecting the best one.
 Beam Search	Searches for best sequence	Higher beams = More accurate but slow
+
+Added templates and usage of BOS and EOS
